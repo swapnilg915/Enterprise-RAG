@@ -1,0 +1,7 @@
+{
+  "document_directory": "data/documents",
+  "index_directory": "data/index",
+  "collection": "duallens_documents",
+  "retrieval_k": 5,
+  "minimum_relevance": 0.05
+}

@@ -1,0 +1,10 @@
+.git
+.env
+.env.*
+!.env.example
+.pytest_cache
+.venv
+__pycache__
+*.pyc
+configs/credentials.json
+tests

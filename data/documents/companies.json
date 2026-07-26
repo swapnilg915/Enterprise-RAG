@@ -1,0 +1,47 @@
+[
+  {
+    "document_id": "northstar-ai-platform-en",
+    "company": "Northstar Cloud",
+    "title": "Enterprise AI Platform Strategy",
+    "text": "Northstar Cloud introduced a governed enterprise AI platform with model routing, private retrieval, prompt versioning, evaluation gates, and regional deployment controls. The platform targets regulated organizations that require auditable generative AI workloads.",
+    "language": "en",
+    "source_url": "https://example.com/northstar/ai-platform",
+    "published_at": "2026-01-15"
+  },
+  {
+    "document_id": "northstar-ai-platform-ar",
+    "company": "Northstar Cloud",
+    "title": "استراتيجية منصة الذكاء الاصطناعي للمؤسسات",
+    "text": "أطلقت شركة نورث ستار منصة ذكاء اصطناعي مؤسسية تدعم حوكمة النماذج والاسترجاع الآمن وتقييم جودة الإجابات والنشر الإقليمي للجهات المنظمة.",
+    "language": "ar",
+    "source_url": "https://example.com/ar/northstar/ai-platform",
+    "published_at": "2026-01-15"
+  },
+  {
+    "document_id": "meridian-copilot-en",
+    "company": "Meridian Systems",
+    "title": "Industry Copilot Portfolio",
+    "text": "Meridian Systems focuses on industry copilots for healthcare, banking, and public services. Its architecture combines workflow agents, human approval, policy retrieval, and operational analytics.",
+    "language": "en",
+    "source_url": "https://example.com/meridian/copilots",
+    "published_at": "2026-02-10"
+  },
+  {
+    "document_id": "vertex-inference-en",
+    "company": "Vertex Compute",
+    "title": "Efficient AI Inference",
+    "text": "Vertex Compute develops GPU inference infrastructure with model quantization, dynamic batching, autoscaling, and observability. The company emphasizes cost-efficient private deployment for open-source language and vision models.",
+    "language": "en",
+    "source_url": "https://example.com/vertex/inference",
+    "published_at": "2026-03-05"
+  },
+  {
+    "document_id": "safeguard-governance-en",
+    "company": "Safeguard AI",
+    "title": "Responsible AI Governance Suite",
+    "text": "Safeguard AI provides model inventory, risk classification, evaluation workflows, red-team testing, and production monitoring. Its product is designed to provide evidence for internal governance and regulatory audits.",
+    "language": "en",
+    "source_url": "https://example.com/safeguard/governance",
+    "published_at": "2026-03-20"
+  }
+]
